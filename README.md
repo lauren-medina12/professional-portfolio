@@ -25,27 +25,32 @@
    - This report highlights that over 20% of the foreign-born population resides in California, New Jersey, New York, and Florida, with significant growth in these states over the past decade.
    - [Click here to read](https://www.census.gov/library/stories/2024/04/where-do-immigrants-live.html)
 
-4.  **2020 U.S. Population More Racially and Ethnically Diverse Than Measured in 2010**
+4.  **Estimating the U.S. Citizen Voting-Age Population (CVAP) Using Blended Survey Data, Administrative Record Data, and Modeling: Technical Report**
+    - Authors:. J. David Brown, Genevieve Denoeux, Misty L. Heggeness, Carl Lieberman, Lauren Medina, Marta Murray-Close, Danielle H. Sandler, Joseph L. Schafer
+    - This work describes a method that utilizes administrative records to supplement nonresponses in the American Community Survey, aiming to produce more accurate estimates of the U.S. citizen voting-age population.
+    - [Click here to read](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-21.html)
+      
+5.  **2020 U.S. Population More Racially and Ethnically Diverse Than Measured in 2010**
     - Authors: Eric Jensen, Nicholas Jones, Megan Rabe, Beverly Pratt, Lauren Medina, Kimberly Orozco and Lindsay Spell
     - The 2020 Census data reveals that the United States is more racially and ethnically diverse than in 2010, with the non-Hispanic White population declining while other racial and ethnic groups, such as Hispanic, Asian, and multiracial populations, saw significant growth.
     - [Click here to read](https://www.census.gov/library/stories/2021/08/2020-united-states-population-more-racially-ethnically-diverse-than-2010.html)
 
-5.  **How Disasters Affect the Nation’s Housing**  
+6.  **How Disasters Affect the Nation’s Housing**  
     - Authors: Lauren Medina and David Armstrong
     - The article discusses how the U.S. Census Bureau has incorporated disaster data from FEMA to assess the impact of natural disasters on housing units across the nation, offering a more comprehensive view of housing losses and recovery efforts.
     - [Click here to read](https://www.census.gov/library/stories/2020/05/how-disasters-affect-the-nations-housing.html)
 
-6.  **America: A Nation of Small Towns**  
+7.  **America: A Nation of Small Towns**  
     - Authors: Amel Toukabri and Lauren Medina
     - The article highlights that the majority of the U.S. population lives in small towns, with three-fourths of the nation's incorporated places having fewer than 5,000 residents.
     - [Click here to read](https://www.census.gov/library/stories/2020/05/america-a-nation-of-small-towns.html#:~:text=Of%20the%20nation's%20328.2%20million,had%20fewer%20than%20500%20people.)
 
-7.  **Living Longer: Historical and Projected Life Expectancy in the United States, 1960 to 2060**  
+8.  **Living Longer: Historical and Projected Life Expectancy in the United States, 1960 to 2060**  
     - Authors: Lauren Medina, Shannon Sabo, and Jonathan Vespa
     - This publication examines historical and projected life expectancy trends in the United States from 1960 to 2060.
     - [Click here to read](https://www.census.gov/content/dam/Census/library/publications/2020/demo/p25-1145.pdf)
 
-8.  **Demographic Turning Points for the United States: Population Projections for 2020 to 2060**  
+9.  **Demographic Turning Points for the United States: Population Projections for 2020 to 2060**  
     - Authors: Jonathan Vespa, Lauren Medina, and David M. Armstrong
     - This publication outlines the U.S. Census Bureau's projections for the U.S. population from 2020 to 2060, highlighting key demographic changes such as population aging, the increasing importance of immigration as a driver of population growth, and the rising racial and ethnic diversity in the country.
     - [Click here to read](https://www.census.gov/content/dam/Census/library/publications/2020/demo/p25-1144.pdf)
